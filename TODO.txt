@@ -1,0 +1,7 @@
+TODO :
+
+Add pks to each model
+
+Add serialization
+
+Everything else
